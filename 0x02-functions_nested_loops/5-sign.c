@@ -16,4 +16,5 @@ else if (n == 0)
 _putchar(48);
 return (0);
 }
+return (-1);
 }
